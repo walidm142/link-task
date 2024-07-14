@@ -1,0 +1,3 @@
+services:
+  events_management.logger:
+    class: Drupal\events_management\Logger\EventsManagementLogger

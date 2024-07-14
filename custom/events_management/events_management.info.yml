@@ -1,0 +1,11 @@
+name: 'Events Management'
+type: module
+description: 'A custom module to manage events.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:block
+  - drupal:node
+  - drupal:field
+  - drupal:views
+version: 1.0
